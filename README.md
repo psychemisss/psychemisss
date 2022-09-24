@@ -1,19 +1,16 @@
-<!-- ### Hi there 👋 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psychemisss&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![psychemisss github stats](https://github-readme-stats.vercel.app/api?username=psychemisss&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&border_radius=3&border_color=#eeeee4)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psychemisss&show_icons=true&theme=tokyonight)
+![psychemisss github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psychemisss&layout=compact&langs_count=4&theme=dracula&border_radius=3&border_color=#eeeee4)
 
 <!--
-**psychemisss/psychemisss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/Language-Python-informational?style=flat-square&logo=python&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Language-C-informational?style=flat-square&logo=c&logoColor=white&color=critical)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Database-ClickHouse-informational?style=flat-square&logo=clickhouse&logoColor=white&color=critical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=critical)
 -->
