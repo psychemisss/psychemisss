@@ -1,6 +1,6 @@
-![psychemisss github stats](https://github-readme-stats.vercel.app/api?username=psychemisss&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&border_radius=3&border_color=#eeeee4)
+![psychemisss github stats](https://github-readme-stats.vercel.app/api?username=psychemisss&show_icons=false&theme=dracula&include_all_commits=true&border_color=#eeeee4&border_radius=3)
 
-![psychemisss github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psychemisss&layout=compact&langs_count=4&theme=dracula&border_radius=3&border_color=#eeeee4)
+![psychemisss github language](https://github-readme-stats.vercel.app/api/top-langs/?username=psychemisss&layout=compact&langs_count=6&theme=dracula&border_color=#eeeee4&border_radius=3)
 
 <!--
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat-square&logo=python&logoColor=white&color=critical)
