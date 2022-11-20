@@ -1,4 +1,4 @@
-![psychemisss github stats](https://github-readme-stats.vercel.app/api?username=psychemisss&show_icons=false&theme=dracula&include_all_commits=true&border_color=#eeeee4&border_radius=3)
+<!-- ![psychemisss github stats](https://github-readme-stats.vercel.app/api?username=psychemisss&show_icons=false&theme=dracula&include_all_commits=true&border_color=#eeeee4&border_radius=3) -->
 
 ![psychemisss github language](https://github-readme-stats.vercel.app/api/top-langs/?username=psychemisss&layout=compact&langs_count=6&theme=dracula&border_color=#eeeee4&border_radius=3)
 
