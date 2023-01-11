@@ -14,9 +14,9 @@ For last year I've been working on FiveM server development. Now I'm leading a s
 *   🌍  I'm based in Moscow
 *   🖥️  See my portfolio at [My Kaggle Profile](http://www.kaggle.com/psychemisss)
 *   ✉️  You can contact me at [psychemisss@gmail.com](mailto:psychemisss@gmail.com)
-*   🚀  I'm currently working on [DB Deployer](https://github.com/psychemisss/db-deployer)
+*   🚀  I'm currently working on [DB Deployer](https://github.com/psychemisss/db-deployer), [S3 Backup tool](https://github.com/psychemisss/s3-backupper) and [Booking service](https://github.com/psychemisss/booking-service)
 *   🧠  I'm learning CatBoost Framework and GRPC protocol
-*   🤝  I'm open to collaborating on NLP, RecSys or Metrics Learning projects
+*   🤝  I'm open to collaborating on ML and system util creation projects
 ### Skills 
 <!-- <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
