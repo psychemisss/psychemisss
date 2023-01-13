@@ -31,6 +31,10 @@ For last year I've been working on FiveM server development. Now I'm leading a s
 </p> -->
                    
 <a href="http://www.github.com/psychemisss">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psychemisss&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-psychemissss.vercel.app/api?username=psychemisss&show_icons=true&include_all_commits=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true"/>
+</a>
+<!-- https://github-readme-stats.vercel.app -->
+
 <a href="https://github.com/psychemisss" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychemisss&layout=compact&langs_count=7&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-psychemissss.vercel.app/api/top-langs/?username=psychemisss&layout=compact&langs_count=6&include_all_commits=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=Jupyter%20%Notebook" alt="Top Languages" />
+</a>
