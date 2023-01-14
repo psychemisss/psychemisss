@@ -17,7 +17,7 @@ For last year I've been working on FiveM server development. Now I'm leading a s
 *   🚀  I'm currently working on [DB Deployer](https://github.com/psychemisss/db-deployer), [S3 Backup tool](https://github.com/psychemisss/s3-backupper) and [Booking service](https://github.com/psychemisss/booking-service)
 *   🧠  I'm learning CatBoost Framework and GRPC protocol
 *   🤝  I'm open to collaborating on ML and system util creation projects
-### Skills 
+<!-- ### Skills  -->
 <!-- <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -30,10 +30,9 @@ For last year I've been working on FiveM server development. Now I'm leading a s
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p> -->
                    
-<a href="http://www.github.com/psychemisss">
+<!-- <a href="http://www.github.com/psychemisss">
 <img src="https://github-readme-psychemissss.vercel.app/api?username=psychemisss&show_icons=true&include_all_commits=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true"/>
-</a>
-<!-- https://github-readme-stats.vercel.app -->
+</a> -->
 
 <a href="https://github.com/psychemisss" align="left">
 <img src="https://github-readme-psychemissss.vercel.app/api/top-langs/?username=psychemisss&layout=compact&langs_count=6&include_all_commits=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=Jupyter%20%Notebook" alt="Top Languages" />
