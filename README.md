@@ -6,7 +6,7 @@
 Hi 👋 My name is psychemisss
 ============================
 
-ML Engineer & Beginner Team Lead
+Beginner MLOps Engineer
 --------------------------------
 
 For last year I've been working on FiveM server development. Now I'm leading a small team that develops interesting projects with me, we are focused on scalable backend systems with ML algorithm integration into them.
